@@ -1,0 +1,1 @@
+{"name":"4-leg-finder","private":true,"packageManager":"pnpm@11.25.0","scripts":{"dev":"pnpm --parallel --stream dev","build":"pnpm --recursive build","check":"pnpm --recursive check"}}
